@@ -1,0 +1,35 @@
+{
+  "List": [
+    {
+      "name": "Joe",
+      "position": [ 200.0, -2.0,0.0 ],
+      "components": {
+        "renderdata": {
+          "sprite": "data/spaceship.png"
+        },
+        "rigidbody2D": {
+          "gravity": 1,
+          "mass": 10
+        },
+        "boxcollider": {}
+      }
+
+    },
+    {
+      "name": "Enemy1",
+      "position": [ -300.0, -300.0, 0.0 ],
+      "components": {
+        "renderdata": {
+          "sprite": "data/spaceship.png"
+        },
+        "rigidbody2D": {
+          "gravity": 1,
+          "mass": 10
+        },
+        "boxcollider": {}
+      }
+    }
+    
+
+  ]
+}

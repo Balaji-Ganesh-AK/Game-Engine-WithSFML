@@ -1,0 +1,24 @@
+{
+  "List": [
+    {
+      
+        "name": "",
+      "position": [ 300.0, 100.0, 0.0 ],
+        "collision_data": {
+          "mass": 1.0,
+          "kd": 2.0
+        },
+      "components": {
+        "renderdata": {
+          "sprite": "data/Bullet.png"
+        },
+        "rigidbody2D": {
+          "gravity": 1,
+          "mass": 100
+        },
+        "boxcollider": {}
+      }
+      
+    }
+  ]
+}

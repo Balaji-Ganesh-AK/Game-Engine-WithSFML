@@ -1,0 +1,21 @@
+{
+  "List": [
+    {
+      "name": "Player",
+      "position": [ 500.0, 800.0,0.0 ],
+      "components": {
+        "renderdata": {
+          "sprite": "data/playership.png"
+        },
+        "rigidbody2D": {
+          "gravity": 1,
+          "mass": 10
+        },
+        "boxcollider": {}
+
+      }
+
+    }
+
+  ]
+}
