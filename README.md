@@ -1,18 +1,18 @@
 Game-Engine-WithSFML
-###################################
+
 
 Game rules 
-##################################################################
+
 # Shoot the enemy space ship.                                   ##
 # For each ship you get 1 point.                                ##
 # If the enemy ship crashes on you, it's game over.             ##
-##################################################################
+
 
 Game Controls	
-##################################################################
-# Use Arror keys to move                           	        ##
-# Space to shoot		                                ##
-##################################################################
+
+# Use Arror keys to move                           	 
+# Space to shoot		                         
+
 
 
 
