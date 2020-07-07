@@ -71,7 +71,7 @@ INT WINAPI wWinMain(HINSTANCE instance, HINSTANCE, LPWSTR, int)
 	int score=0;
 	bool EndGame = false;
 
-
+	//Entity test("test");
 	
 	Entity* player = EntityManagerMain.FindGameObjectByTag("Player");
 	if(player)
