@@ -1,7 +1,7 @@
 Game-Engine-WithSFML
 
 
-Game rules 
+# Game RULES #
 
 # Shoot the enemy space ship.                                   ##
 # For each ship you get 1 point.                                ##
